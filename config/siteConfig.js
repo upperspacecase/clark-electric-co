@@ -80,29 +80,7 @@ const siteConfig = {
     totalReviews: 0,
     googleMapsUrl:
       "https://search.google.com/local/writereview?placeid=ChIJq6o6B0prYogRba0ibo1i8TQ",
-    items: [
-      {
-        author: "Kevin Brooks",
-        rating: 5,
-        date: "3 months ago",
-        text: "Clark Electric did a full rewire of our 1960s home in Five Points. Meticulous work, everything passed inspection first time. Couldn't be happier.",
-        avatar: null,
-      },
-      {
-        author: "Jennifer Adams",
-        rating: 5,
-        date: "7 months ago",
-        text: "Had them install recessed lighting throughout our living areas. The team was professional, clean, and the results look amazing.",
-        avatar: null,
-      },
-      {
-        author: "Thomas Wright",
-        rating: 5,
-        date: "a year ago",
-        text: "Emergency call at 10pm and they were at our door within 30 minutes. Fixed the issue quickly and fairly priced. True 24/7 service.",
-        avatar: null,
-      },
-    ],
+    items: [],
   },
 
   // ============================================================
